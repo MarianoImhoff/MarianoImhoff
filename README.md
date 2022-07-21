@@ -41,5 +41,5 @@ hone my soft and technical skills.<p/>
 </p>
 <br/>
 <br/>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marianoimhoff&show_icons=true&theme=onedark&title_color=00fa11&text_color=faf9f9&hide_border=true&locale=en" alt="marianoimhoff" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=marianoimhoff&show_icons=true&theme=onedark&title_color=00fa11&text_color=faf9f9&hide_border=true&locale=en" alt="marianoimhoff" /></p>
 <br/>
