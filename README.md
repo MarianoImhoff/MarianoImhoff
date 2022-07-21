@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mariano Imhoff</h1>
 <div align="center">
-<img  src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width=350 heigth=350/>
+<img  src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width=380 height=200/>
 </div>
 <h2 align="center">FullStack developer</h3>
 <br/>
@@ -41,5 +41,11 @@ hone my soft and technical skills.<p/>
 </p>
 <br/>
 <br/>
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=marianoimhoff&show_icons=true&theme=onedark&title_color=00fa11&text_color=faf9f9&hide_border=true&locale=en" alt="marianoimhoff" /></p>
+<div align="center">
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=marianoimhoff&show_icons=true&theme=onedark&title_color=00fa11&text_color=faf9f9&hide_border=true&locale=en" alt="marianoimhoff" width=420/>
+ &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=marianoimhoff&show_icons=true&theme=onedark&title_color=00fa11&text_color=fafafa&hide_border=true&locale=en&layout=compact" alt="marianoimhoff" />
+  </p>
+
+ </div>
 <br/>
+
