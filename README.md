@@ -33,7 +33,7 @@ hone my soft and technical skills.<p/>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />
 </p>
 <br/>
-<h3 align="center">Connect me</h3>
+<h3 align="center">Contact me</h3>
 <p align="center">
   <a href="mailto:imhmariano@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:borjapazr@gmail.com"/></a>&nbsp;&nbsp;
   <a href="https://discord.gg/MarianoImhoff#0346"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/MarianoImhoff#0346"/></a>&nbsp;&nbsp;
