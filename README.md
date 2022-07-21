@@ -10,9 +10,9 @@ hone my soft and technical skills.<p/>
 <p align="center"> 
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-202124?style=flat-square&logo=express&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" />
   <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-blue?style=flat-square&logo=sequelize&logoColor=white"/>
-  <img alt="Express" src="https://img.shields.io/badge/-Express-202124?style=flat-square&logo=express&logoColor=white" />  
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
