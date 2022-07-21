@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mariano Imhoff</h1>
 <div align="center">
-<img  src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width=300 heigth=300/>
+<img  src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width=350 heigth=350/>
 </div>
 <h2 align="center">FullStack developer</h3>
 <br/>
