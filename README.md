@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mariano Imhoff</h1>
-<br/>
+<h1 align="center">Hi 👋, I'm Mariano Imhoff</h1><div align="center">
+<img  src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width=200 heigth=200/>
+</div>
 <h2 align="center">FullStack developer</h3>
 <br/>
 <p align="center">The search for learning led me to get involved
@@ -40,4 +41,5 @@ hone my soft and technical skills.<p/>
 <br/>
 <br/>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marianoimhoff&show_icons=true&theme=onedark&title_color=00fa11&text_color=faf9f9&hide_border=true&locale=en" alt="marianoimhoff" /></p>
+<br/>
 
