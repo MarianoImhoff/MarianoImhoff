@@ -38,7 +38,7 @@ hone my soft and technical skills.<p/>
   <a href="mailto:imhmariano@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:borjapazr@gmail.com"/></a>&nbsp;&nbsp;
   <a href="https://discord.gg/MarianoImhoff#0346"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/MarianoImhoff#0346"/></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/marianoimhoff"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marianoimhoff"/></a>
-  <a href="https://marianoimhoff.netlify.app/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=portfolio&logoColor=white&link=https://marianoimhoff.netlify.app/"/></a>
+  <a href="https://marianoimhoff.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white&link=https://marianoimhoff.netlify.app/"/></a>
 </p>
 <br/>
 <br/>
