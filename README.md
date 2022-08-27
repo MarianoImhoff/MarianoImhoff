@@ -38,15 +38,13 @@ hone my soft and technical skills.<p/>
   <a href="mailto:imhmariano@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:borjapazr@gmail.com"/></a>&nbsp;&nbsp;
   <a href="https://discord.gg/MarianoImhoff#0346"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/MarianoImhoff#0346"/></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/marianoimhoff"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marianoimhoff"/></a>&nbsp;&nbsp;
-  <a href="https://marianoimhoff.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=yellow&link=https://marianoimhoff.netlify.app/"/></a>
+  <a href="https://marianoimhoff.netlify.app/"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white&link=https://marianoimhoff.netlify.app/"/></a>
 </p>
 <br/>
 <br/>
 <div align="center">
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=marianoimhoff&show_icons=true&theme=onedark&title_color=00fa11&text_color=faf9f9&hide_border=true&locale=en" alt="marianoimhoff" width=420/>
  &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=marianoimhoff&show_icons=true&theme=onedark&title_color=00fa11&text_color=fafafa&hide_border=true&locale=en&layout=compact" alt="marianoimhoff" />
-  <a href="https://dribbble.com/https://marianoimhoff.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://marianoimhoff.netlify.app/" height="30" width="40" /></a>
-  <a href="/https://marianoimhoff.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://marianoimhoff.netlify.app/" height="30" width="40" /></a>
   </p>
 
  </div>
